@@ -1,2 +1,2 @@
 # obvious-pandas-tricks
-Quite few pandas tricks that help for data preparation.
+Few pandas tricks to help in data preparation.
