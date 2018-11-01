@@ -1,7 +1,7 @@
 ### 1/ show all dataframe columns
     pd.set_option('display.max_columns', None)
     
-### 2/ show n columns from the dataframe
+### 2/ show a number n of columns from the dataframe
     pd.set_option('display.max_columns', None)
     
 ### 3/ Delete some columns from a pandas dataframe.
